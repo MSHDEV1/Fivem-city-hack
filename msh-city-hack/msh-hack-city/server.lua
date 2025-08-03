@@ -1,0 +1,6 @@
+RegisterNetEvent("msh-hack-city:server:black" ,function ()
+           exports["qb-weathersync"]:setBlackout(true)
+end)
+RegisterNetEvent("msh-hack-city:server:blacknotvisible",function ()
+        exports["qb-weathersync"]:setBlackout(false)
+end)
