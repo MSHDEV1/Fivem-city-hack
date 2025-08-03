@@ -19,9 +19,15 @@ qb-core/shared/jobs.lua ya
 			['5'] = { name = 'God', isboss = true, payment = 0 },
 		},
 	},
+ 
 bunu kopyala yapıştırın
+
+
 qb-weathersync ile çalışır eğer bu scripti kullanmıyorsanız
+
 SetArtificialLightsState(true)
+
+
 SetArtificialLightsStateAffectsVehicles(true)
 
 olarak kullanın
